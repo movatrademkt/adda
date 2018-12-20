@@ -1,0 +1,59 @@
+
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+
+header.masthead {
+	position: relative;
+	background-color: #343a40;
+	background: url("../img/aulas.jpg") no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 12rem;
+ 	padding-bottom: 12rem;
+}
+
+.features-icons {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.showcase .showcase-text {
+	padding: 3rem;
+	background-size: cover;
+
+}
+
+.showcase .showcase-img {
+	background-size: cover;
+ 	width: 100%;
+}
+
+footer.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+ 
+}
+a {
+    color: #c74335;
+    text-decoration: none;
+}
+a:hover {
+
+    color: #c74335;
+    font-weight: bold;
+    text-decoration: none;
+
+}
